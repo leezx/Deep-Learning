@@ -16,4 +16,8 @@ https://github.com/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer
 5. softmax函数在深度学习里的作用？为什么计算attention时用这个函数？
 6. attention我知道，但什么是self-attention？
 7. 为什么要MultiHead？
-
+8. LLM模型的layer并不多，为什么会有几百亿个参数？
+9. 以GPT为实例，给我分析模型的每个部分有多少参数？
+10. 这么多参数，如何确保训练时会收敛，更新这些参数代价会不会太大？
+11. 模型的训练是动态的，那么训练到什么程度才停止呢？
+12. GPT是如何确定何时停止训练的？
